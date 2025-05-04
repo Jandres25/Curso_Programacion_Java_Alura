@@ -1,0 +1,18 @@
+[
+  {
+    "Nombre": "The Dark Knight",
+    "FechaDeLanzamiento": 2008,
+    "DuracionEnMinutos": 152,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeLasEvaluaciones": 0
+  },
+  {
+    "Nombre": "Elf",
+    "FechaDeLanzamiento": 2003,
+    "DuracionEnMinutos": 97,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeLasEvaluaciones": 0
+  }
+]
